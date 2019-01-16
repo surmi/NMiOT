@@ -1,0 +1,26 @@
+﻿  main.cpp
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(65): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(67): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(70): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(72): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(122): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(152): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(169): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(178): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(191): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(201): warning C4244: "argument": konwersja z "_Ty" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(211): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(327): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(329): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surma\documents\nmot\lab3\nmiot_template\main.cpp(350): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  1 of 597 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  tomo_template.vcxproj -> C:\Users\surma\Documents\NMOT\lab3\nmiot_template\Release\tomo_template.exe
